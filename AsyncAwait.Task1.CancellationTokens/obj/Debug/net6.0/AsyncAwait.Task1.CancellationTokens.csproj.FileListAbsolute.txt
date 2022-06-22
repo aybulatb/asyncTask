@@ -1,0 +1,15 @@
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.exe
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.deps.json
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.runtimeconfig.json
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.dll
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\bin\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.pdb
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.csproj.AssemblyReference.cache
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.AssemblyInfoInputs.cache
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.AssemblyInfo.cs
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.csproj.CoreCompileInputs.cache
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.dll
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\refint\AsyncAwait.Task1.CancellationTokens.dll
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.pdb
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\AsyncAwait.Task1.CancellationTokens.genruntimeconfig.cache
+C:\Users\Aibulat_Baidavletov\Downloads\AsyncAwait.Tasks\AsyncAwait.Tasks\AsyncAwait.Task1.CancellationTokens\obj\Debug\net6.0\ref\AsyncAwait.Task1.CancellationTokens.dll
