@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TuOybOSzf3HtPitX6vFGSR+yeMBb7QpFibSE3Z4RZgptPVvd9GEQbM1QcdlgYW4DXCODSae2Q/Ie9LAUj4YV/Q==",
+  "dgSpecHash": "NzDAGPt/EEYOpxUV/xIeZ8OOayedSotCbfLAkxRD3+c53FmKeT7noFdIz9C/6L1+MHF4oietVQGfV0+YQDLqcg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task1.CancellationTokens\\AsyncAwait.Task1.CancellationTokens.csproj",
+  "projectFilePath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task1.CancellationTokens\\AsyncAwait.Task1.CancellationTokens.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task1.CancellationTokens\\AsyncAwait.Task1.CancellationTokens.csproj",
+      "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task1.CancellationTokens\\AsyncAwait.Task1.CancellationTokens.csproj",
       "projectName": "AsyncAwait.Task1.CancellationTokens",
-      "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task1.CancellationTokens\\AsyncAwait.Task1.CancellationTokens.csproj",
+      "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task1.CancellationTokens\\AsyncAwait.Task1.CancellationTokens.csproj",
       "packagesPath": "C:\\Users\\Aibulat_Baidavletov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task1.CancellationTokens\\obj\\",
+      "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task1.CancellationTokens\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aibulat_Baidavletov\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
       "projectName": "AsyncAwait.Task2.CodeReviewChallenge",
-      "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
+      "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
       "packagesPath": "C:\\Users\\Aibulat_Baidavletov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\obj\\",
+      "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aibulat_Baidavletov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -54,8 +54,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj": {
-              "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj"
+            "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj": {
+              "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj": {}
+    "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj": {
+    "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
+        "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
         "projectName": "AsyncAwait.Task2.CodeReviewChallenge",
-        "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
+        "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\AsyncAwait.Task2.CodeReviewChallenge.csproj",
         "packagesPath": "C:\\Users\\Aibulat_Baidavletov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\AsyncAwait.Task2.CodeReviewChallenge\\obj\\",
+        "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\AsyncAwait.Task2.CodeReviewChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aibulat_Baidavletov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj": {
-                "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj"
+              "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj": {
+                "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj": {
+    "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj",
+        "projectUniqueName": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj",
         "projectName": "CloudServices",
-        "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\CloudServices.csproj",
+        "projectPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\CloudServices.csproj",
         "packagesPath": "C:\\Users\\Aibulat_Baidavletov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\AsyncAwait.Tasks\\CloudServices\\obj\\",
+        "outputPath": "C:\\Users\\Aibulat_Baidavletov\\Downloads\\AsyncAwait.Tasks\\asyncTask\\CloudServices\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aibulat_Baidavletov\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -117,7 +117,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
         }
       }
     }
