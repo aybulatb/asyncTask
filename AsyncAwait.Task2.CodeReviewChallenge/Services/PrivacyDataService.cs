@@ -1,12 +1,13 @@
-﻿using System.Threading.Tasks;
-
-namespace AsyncAwait.Task2.CodeReviewChallenge.Services;
+﻿namespace AsyncAwait.Task2.CodeReviewChallenge.Services;
 
 public class PrivacyDataService : IPrivacyDataService
 {
-    public Task<string> GetPrivacyDataAsync()
+    public string GetPrivacyDataAsync()
     {
-        return new ValueTask<string>("This Policy describes how async/await processes your personal data," +
-                                     "but it may not address all possible data processing scenarios.").AsTask();
+        /// мне кажется тут лучше не создавать таск, т.к. это занимает доп. ресурсы,
+        /// а просто возвращать строку
+        
+        return "This Policy describes how async/await processes your personal data," +
+               "but it may not address all possible data processing scenarios.";
     }
 }

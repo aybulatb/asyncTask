@@ -1,8 +1,8 @@
-﻿using System.Threading.Tasks;
-
-namespace AsyncAwait.Task2.CodeReviewChallenge.Services;
+﻿namespace AsyncAwait.Task2.CodeReviewChallenge.Services;
 
 public interface IPrivacyDataService
 {
-    Task<string> GetPrivacyDataAsync();
+    /// мне кажется тут лучше не создавать таск, т.к. это занимает доп. ресурсы,
+    /// а просто возвращать строку
+    string GetPrivacyDataAsync();
 }
